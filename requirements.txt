@@ -1,6 +1,7 @@
-python-telegram-bot[job-queue]==20.8
+python-telegram-bot==20.8
 aiohttp
 httpx
 brotli
 pycryptodome
 requests
+setuptools
